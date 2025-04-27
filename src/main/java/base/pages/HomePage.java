@@ -1,6 +1,5 @@
 package base.pages;
 
-import base.config.BaseTest;
 import base.config.PageTools;
 import base.helpers.Constants;
 import com.codeborne.selenide.CollectionCondition;

@@ -1,4 +1,4 @@
-package logincritical;
+package UITests.loginCritical;
 
 import base.config.BaseTest;
 import org.testng.annotations.Test;

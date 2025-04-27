@@ -1,4 +1,4 @@
-package additemToCartCritical;
+package UITests.addItemToCartCritical;
 
 import base.config.BaseTest;
 import com.codeborne.selenide.Selenide;

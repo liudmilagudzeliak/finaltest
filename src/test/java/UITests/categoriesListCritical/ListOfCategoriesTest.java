@@ -1,4 +1,4 @@
-package categorieslistcritical;
+package UITests.categoriesListCritical;
 
 import base.config.BaseTest;
 import org.testng.annotations.Test;

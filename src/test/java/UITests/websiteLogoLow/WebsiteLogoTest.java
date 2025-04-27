@@ -1,4 +1,4 @@
-package websiteLogoLow;
+package UITests.websiteLogoLow;
 
 import base.config.BaseTest;
 import org.testng.annotations.Test;

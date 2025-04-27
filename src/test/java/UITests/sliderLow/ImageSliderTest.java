@@ -1,4 +1,4 @@
-package sliderlow;
+package UITests.sliderLow;
 
 import base.config.BaseTest;
 import org.testng.annotations.Test;

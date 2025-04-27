@@ -9,16 +9,16 @@
             </run>
         </groups>
         <packages>
-            <package name="additemToCartCritical"/>
+            <package name="UITests.UITests.websiteLogoLow.additemToCartCritical"/>
             <package name="apiTests"/>
-            <package name="categorieslistcritical"/>
-            <package name="contactTestcritical"/>
-            <package name="homepagenavigationlow"/>
-            <package name="itemDetaillow"/>
-            <package name="logincritical"/>
-            <package name="placeOrderCritical"/>
-            <package name="sliderlow"/>
-            <package name="websiteLogoLow"/>
+            <package name="UITests.UITests.websiteLogoLow.categorieslistcritical"/>
+            <package name="UITests.UITests.websiteLogoLow.contactTestcritical"/>
+            <package name="UITests.UITests.websiteLogoLow.homepagenavigationlow"/>
+            <package name="UITests.UITests.websiteLogoLow.itemDetaillow"/>
+            <package name="UITests.UITests.websiteLogoLow.logincritical"/>
+            <package name="UITests.UITests.websiteLogoLow.placeOrderCritical"/>
+            <package name="UITests.websiteLogoLow.sliderlow"/>
+            <package name="UITests.websiteLogoLow"/>
         </packages>
     </test>
 </suite>

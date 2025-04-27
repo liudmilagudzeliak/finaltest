@@ -1,4 +1,4 @@
-package itemDetaillow;
+package UITests.itemDetailLow;
 
 import base.config.BaseTest;
 import base.pages.ItemDetails;

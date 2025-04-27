@@ -7,6 +7,10 @@ import com.codeborne.selenide.testng.TextReport;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.testng.annotations.*;
 
+import org.testng.annotations.BeforeMethod;
+
+
+
 @Listeners({TextReport.class})
 public class BaseTest {
     @BeforeTest

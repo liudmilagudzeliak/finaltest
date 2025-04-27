@@ -1,7 +1,6 @@
-package homepagenavigationlow;
+package UITests.homePageNavigationLow;
 
 import base.config.BaseTest;
-import com.codeborne.selenide.Selenide;
 import org.testng.annotations.Test;
 
 import static base.Pages.homePage;

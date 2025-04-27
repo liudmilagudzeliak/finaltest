@@ -1,4 +1,4 @@
-package placeOrderCritical;
+package UITests.placeOrderCritical;
 
 import base.config.BaseTest;
 import com.codeborne.selenide.Selenide;

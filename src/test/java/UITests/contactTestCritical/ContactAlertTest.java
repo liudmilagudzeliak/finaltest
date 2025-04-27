@@ -1,4 +1,4 @@
-package contactTestcritical;
+package UITests.contactTestCritical;
 
 import base.config.BaseTest;
 import com.codeborne.selenide.Selenide;
